@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(243, 209, 253);  
+    display: flex; /* convierte los elementos en cajas flexibles*/
+ min-height: 100vh;/* se declara altura del body al 100% del alto de la vista*/
+ flex-wrap: wrap;
+    
+}
+
+nav{
+    background-color: indigo;
+    text-align: center;
+    }
+
+
+    nav ul li{
+        display: inline-block;
+        padding: 10px;
+        
+        }
+
+        nav > ul{
+            padding-left: 0px;
+            list-style: none;
+            justify-content: center;
+               
+        }
+
+        nav ul li a{
+            text-decoration: none;
+             color: chocolate;
+             
+              
+         }
+
+         #piePagina {
+         align-self: flex-end; 
+         background-color: rgb(97, 4, 116);
+         text-align: center;
+         line-height: 1;
+          width: 100%;
+          color: white;
+       
+       }
+
+       
+       table{
+        border: 1px solid #000;
+        margin: 0 auto;
+        text-align: left;
+    }
+    tr,td,th{
+
+        width: 20%;
+       text-align: left;
+       vertical-align:top;
+       border: 1px solid #000;
+    }
+
+    label{
+
+        width: 80px;
+        display: inline-block;
+        margin-bottom: 8px;
+        
+    }
+ 
+    
+   

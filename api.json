@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 15000,
+      "id": 1,
+      "title": "Tarjeta personalizada",
+      "thumbnailUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+      "precio": 20000,
+      "id": 2,
+      "title": "Caja decorativa",
+      "thumbnailUrl": "https://picsum.photos/id/10/600"
+    }, 
+    {
+      "precio": 20000,
+      "id": 3,
+      "title": "Sobre explosion",
+      "thumbnailUrl": "https://picsum.photos/id/20/600"
+    },
+    {
+      "precio": 15000,
+      "id": 4,
+      "title": "Caja tradicional",
+      "thumbnailUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+      "precio": 35000,
+      "id": 5,
+      "title": "sobres sorpresa x10",
+      "thumbnailUrl": "https://picsum.photos/id/40/600"
+    },
+    {
+      "precio": 15000,
+      "id": 6,
+      "title": "Trajetas regalo x3",
+      "thumbnailUrl": "https://picsum.photos/id/50/600"
+    }
+  ]
